@@ -1,2 +1,2 @@
 # practice
-Practicing Algorithms from CodeForce
+Practicing Algorithms from Codeforces
